@@ -4,4 +4,11 @@
 This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
 
 Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
-/http://:h9u38uejjr9hHhdidjd8gvdid9hsddn9ooo9oHhdZZZggs8gsHHHUs7szs8zG8hGg8uzsH8iiue98889==
+    https://docs.github.com
+ a=IP4vadress(10111111))
+ port=19939
+print(a,prot)
+ print('proxy')
+
+  
+ 
