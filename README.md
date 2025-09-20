@@ -8,7 +8,8 @@ Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com
  a=IP4vadress(10111111))
  port=19939
 print(a,prot)
- print('proxy')
+print('proxy')
+/http://vless://191.191.1.0:19939/root:299
 
   
  
