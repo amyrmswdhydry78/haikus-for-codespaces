@@ -10,6 +10,5 @@ Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com
 print(a,prot)
 print('proxy')
 /http://vless://191.191.1.0:19939/root:299
-,,#<^^$[>_8^^4:<&4:&**3&*4]&=<&494948&4&&=8&&5(/(*:48^484<&48&4893994>>588<48<<40000047
-  
- 
+
+/http: //vless://254.38.39.8:910
